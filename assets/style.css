@@ -7,14 +7,14 @@
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.bluefont {
-  color: rgb(12, 80, 147);
+.whitefont {
+  color: rgb(255, 255, 255);
   border-style: solid;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.redcontact {
-  color: rgb(193, 0, 93);
+.whitecontact {
+  color: rgb(255, 255, 255);
   border-style: solid;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -24,16 +24,16 @@
   
 }
 
-.bluebox {
+.orangebox {
   height: 100px;
   width: 960px;
-  background-color: rgb(12, 80, 147);
+  background-color: rgb(160, 129, 73);
   border-style: solid;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 a:link {
-  color: rgb(123, 123, 139);
+  color: rgb(178, 178, 187);
 }
 
 .center {
